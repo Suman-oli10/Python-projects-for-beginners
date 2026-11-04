@@ -13,6 +13,8 @@ A collection of beginner-friendly Python projects developed to practice programm
 - **Restaurant Program** — A restaurant-related application built with Python.
 - **Rock Paper Scissors** — A classic hand game played against the computer.
 - **Simple Calculator** — Performs basic arithmetic operations, saves calculation history to a text file, displays previous calculations, and allows users to clear the history.
+- **Personal Expense Tracker** — Allows users to record and manage personal expenses, view expense records, calculate total expenses, analyze spending by category, and identify the highest expense. Uses file handling to save and load expense records.
+- **Student Record System** — A Python-based application for managing student records, allowing users to store, view, search, update, and delete student information.
 
 ## Technologies Used
 
