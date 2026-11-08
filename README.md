@@ -9,12 +9,14 @@ A collection of beginner-friendly Python projects developed to practice programm
 - **Fake News Generator** — Generates humorous, fake-news-style headlines using predefined subjects, actions, and places.
 - **Number Guessing Game** — A game where the player guesses a randomly generated number.
 - **QR Code Generator** — Generates QR codes from user-provided input data.
-- **Quiz Game** — A question-and-answer game to test knowledge.
+- **Quiz Game** — A question-and-answer game that tests general knowledge and Python concepts, calculates scores and percentages, and saves quiz results to a text file. Allows users to replay the quiz and clear saved history.
 - **Restaurant Program** — A restaurant-related application built with Python.
 - **Rock Paper Scissors** — A classic hand game played against the computer.
 - **Simple Calculator** — Performs basic arithmetic operations, saves calculation history to a text file, displays previous calculations, and allows users to clear the history.
 - **Personal Expense Tracker** — Allows users to record and manage personal expenses, view expense records, calculate total expenses, analyze spending by category, and identify the highest expense. Uses file handling to save and load expense records.
 - **Student Record System** — A Python-based application for managing student records, allowing users to store, view, search, update, and delete student information.
+- **ATM Simulator** — Simulates basic ATM operations, including PIN verification, balance checking, depositing money, withdrawing money, and changing the PIN. Limits login attempts and saves transaction details to a text file.
+- **Library Management System** — Allows users to add, view, search, update, and delete book records. Also checks book quantities, prevents duplicate book IDs, counts the total number of books, and stores records in a CSV file for future use.
 
 ## Technologies Used
 
